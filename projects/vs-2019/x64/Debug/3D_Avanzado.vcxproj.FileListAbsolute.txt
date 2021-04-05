@@ -1,0 +1,2 @@
+C:\Users\titob\Desktop\Proyectos GitHub\3DAvanzado_JavierAlvarez\projects\vs-2019\x64\Debug\3D_Avanzado.exe
+C:\Users\titob\Desktop\Proyectos GitHub\3DAvanzado_JavierAlvarez\projects\vs-2019\x64\Debug\3D_Avanzado.pdb
